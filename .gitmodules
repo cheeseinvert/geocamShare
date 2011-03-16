@@ -15,3 +15,9 @@
 [submodule "submodules/geocamTrackWeb"]
 	path = submodules/geocamTrackWeb
 	url = git://github.com/geocam/geocamTrackWeb.git
+[submodule "submodules/geocamMemoWeb"]
+	path = submodules/geocamMemoWeb
+	url = git://github.com/cheeseinvert/geocamMemoWeb.git
+[submodule "submodules/geocamTalkWeb"]
+	path = submodules/geocamTalkWeb
+	url = git://github.com/cheeseinvert/geocamTalkWeb.git
